@@ -1,5 +1,5 @@
-## Final Project of Data Science and Machine Learning Course
-## Purwadhika Startup and Coding School 2020
+# Final Project of Data Science and Machine Learning Course
+# Purwadhika Startup and Coding School 2020-2021
 # 80% of Total Population Vaccinations Prediction
 
 ### Introduction
