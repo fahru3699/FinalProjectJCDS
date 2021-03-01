@@ -28,6 +28,7 @@ Days required to vaccinate 80% of total population
   
 - Machine learning model:
   - TimeSeries Analysis Machine Learning
+  - We are going to use 'date' and 'Daily Vaccination' as our basis column to analyze the vaccination trend. The method will be Auto Regression Integrated Moving Average (ARIMA)
   
 - Dashboard
   - Dashboard menu consists of prediction of Daily Vaccinations mean based to get the duration of Vaccination
