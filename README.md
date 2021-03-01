@@ -1,6 +1,6 @@
 # Final Project of Data Science and Machine Learning Course
 # Purwadhika Startup and Coding School 2020-2021
-# 80% of Total Population Vaccinations Prediction
+## 80% of Total Population Vaccinations Prediction
 
 ### Introduction
 While we are in the middle of a pandemic, the progress of worldwide vaccinations has led confusion to some with many problems and one of them is the unequity of vaccines distribution. Seeing from how developed countries be able to get the vaccines first or even pre-ordered the vaccines just before it was made. Many people are wondering how long does it take to get vaccinated for all of the citizens in their country. This final project hopefully will give a general image of how long it takes to vaccinate at least 80% of total population, the prediciton itself is coming from the mean and StDev of Daily Vaccinations 
