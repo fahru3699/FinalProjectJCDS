@@ -27,16 +27,16 @@ Days required to vaccinate 80% of total population
   3. Status of vaccine(s) being utilised based on percentage
   
 - Machine learning model:
-  - TimeSeries Analysis Machine Learning
-  - We are going to use 'date' and 'Daily Vaccination' as our basis column to analyze the vaccination trend. The method will be Auto Regression Integrated Moving Average (ARIMA)
+  1. TimeSeries Analysis Machine Learning
+  2. We are going to use 'date' and 'Daily Vaccination' as our basis column to analyze the vaccination trend. The method will be Auto Regression Integrated Moving Average (ARIMA)
   
 - Dashboard
-  - Dashboard menu consists of prediction of Daily Vaccinations mean based to get the duration of Vaccination
-  - People get to know how long will it takes for their country to get vaccinated to the point of 80% of total populations, and which variant of vaccines are currently being utilised by their government
+  1. Dashboard menu consists of prediction of Daily Vaccinations mean based to get the duration of Vaccination
+  2. People get to know how long will it takes for their country to get vaccinated to the point of 80% of total populations, and which variant of vaccines are currently being utilised by their government
 
 ### Recommendation
-- The government could speed-up the vaccinations progress to their people, seeing how many lives the disease has taken
-- For the world to unite to end the plague, because if there is still an unequity in regards to the distribution of the vaccines, none in any world, we will get out of this dark moment. The data supported on how lack the vaccinations in South Africa that it ended up having mutations that some vaccines are not effective in some countries with severe diseases.
+1. The government could speed-up the vaccinations progress to their people, seeing how many lives the disease has taken
+2. For the world to unite to end the plague, because if there is still an unequity in regards to the distribution of the vaccines, none in any world, we will get out of this dark moment. The data supported on how lack the vaccinations in South Africa that it ended up having mutations that some vaccines are not effective in some countries with severe diseases.
 
 
 ### Note
